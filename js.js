@@ -12,3 +12,4 @@ $('#basicSkills').on('hide.bs.collapse', function(){
     ButtonText.innerHTML="Show list &#8595; "
 })
 })
+// ssss
